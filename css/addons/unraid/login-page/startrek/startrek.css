@@ -1,4 +1,4 @@
-@import url("/theme.park/css/addons/unraid/login-page/alien/startrek-base.css");
+@import url("/theme.park/css/addons/unraid/login-page/startrek/startrek-base.css");
 :root {
     --main-bg: radial-gradient(ellipse at center,rgba(0, 255, 119, 0.1) 0,rgba(0,255,119,0) 100%) center center/cover no-repeat fixed, 
     url(/theme.park/css/addons/unraid/login-page/startrek/wallpaper/isolation.png) center center/cover no-repeat fixed;
